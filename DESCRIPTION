@@ -1,7 +1,7 @@
 Type: Package
 Package: baskexact
 Title: Analytical Calculation of Basket Trial Operating Characteristics
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person("Lukas", "Baumann", , "baumann@imbi.uni-heidelberg.de", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-7931-7470"))
@@ -25,8 +25,8 @@ Collate: 'RcppExports.R' 'class.R' 'adjust_lambda.R' 'analysis.R'
         'interim.R' 'monotonicity.R' 'opt_design.R' 'plot.R' 'pow.R'
         'rejection_probabilities.R' 'toer.R' 'validate.R' 'weights.R'
 NeedsCompilation: yes
-Packaged: 2024-03-13 13:31:11 UTC; uy240
+Packaged: 2024-04-09 13:09:54 UTC; uy240
 Author: Lukas Baumann [aut, cre] (<https://orcid.org/0000-0001-7931-7470>)
 Maintainer: Lukas Baumann <baumann@imbi.uni-heidelberg.de>
 Repository: CRAN
-Date/Publication: 2024-03-13 14:00:02 UTC
+Date/Publication: 2024-04-09 13:30:02 UTC
